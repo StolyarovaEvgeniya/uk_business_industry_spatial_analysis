@@ -1,5 +1,6 @@
 # Large data files (do not commit)
 *.csv
+*.zip
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
